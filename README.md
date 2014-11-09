@@ -25,7 +25,7 @@ Blog: Used SQL to create a database that stores username, post, and comments to 
   * 6/login/sadman_terrance
  * regexp
   * Terrance Liang, Oliver Zhang 
-	* 6/regexp/oliver-terrance
+  * 6/regexp/oliver-terrance
  * intro-proj 1
   * Terrance Liang, Eric Liao
   * 6/intro-proj1/ELiaoTLiang
