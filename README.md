@@ -21,6 +21,13 @@ Period 6
 
 #### https://github.com/corrrin9797/blahblahblog.git
 
+### Tubby Cook
+#### Team members: Terrance Liang, Matthew Cook 
+#### Description
+* API - Used the APIs of Yelp and Spotify in order to find restaurants for a food at a location and also a "relevant" playlist that goes along with the restaurant.
+
+#### https://github.com/mcookhome/tubby-cook.git
+
 ##Mini Projects
  * login
   * Terrance Liang, Sadman Fahmid
