@@ -29,7 +29,7 @@ Period 6
 #### https://github.com/mcookhome/tubby-cook.git
 
 ##Mini Projects
- * javascript todo
+ * todo
   * Terrance Liang
   * 6/todo/terrance_liang
  * login
