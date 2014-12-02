@@ -29,6 +29,9 @@ Period 6
 #### https://github.com/mcookhome/tubby-cook.git
 
 ##Mini Projects
+ * javascript todo
+  * Terrance Liang
+  * 6/todo/terrance_liang
  * login
   * Terrance Liang, Sadman Fahmid
   * 6/login/sadman_terrance
