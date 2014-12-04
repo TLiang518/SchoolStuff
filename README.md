@@ -29,6 +29,9 @@ Period 6
 #### https://github.com/mcookhome/tubby-cook.git
 
 ##Mini Projects
+ * invisible-cow
+  * Terrance Liang, Matthew Cook
+  * 6/invisible-cow/matthew_terrance
  * todo
   * Terrance Liang
   * 6/todo/terrance_liang
