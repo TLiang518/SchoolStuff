@@ -1,7 +1,7 @@
 Terrance Liang
 ==========
 
-# Fall Semester
+## Fall Semester
 Period 6
 
 ##Final Project
