@@ -4,6 +4,15 @@ Terrance Liang
 # Fall Semester
 Period 6
 
+##Final Project
+
+### STEM
+#### Team members: Terrance Liang, Sadman Fahmid, Eric Liao, Matthew Cook 
+#### Description
+* Group Management page that allows a group to be able to contact and work together.
+ 
+#### https://github.com/mcookhome/STEM.git
+
 ## Main Projects
 
 ### dOTL
