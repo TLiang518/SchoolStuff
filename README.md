@@ -6,12 +6,12 @@ Period 6
 
 ##Final Project
 
-### STEM
+### dllb
 #### Team members: Terrance Liang, Sadman Fahmid, Eric Liao, Matthew Cook 
 #### Description
 * Group Management page that allows a group to be able to contact and work together.
  
-#### https://github.com/mcookhome/STEM.git
+#### https://github.com/mcookhome/dllb.git
 
 ## Main Projects
 
