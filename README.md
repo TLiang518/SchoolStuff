@@ -37,13 +37,6 @@ Period 6
 
 #### https://github.com/mcookhome/tubby-cook.git
 
-### STEM
-#### Team members: Terrance Liang, Sadman Fahmid, Eric Liao, Matthew Cook 
-#### Description
-* Group Management page that allows a group to be able to contact and work together.
- 
-#### https://github.com/mcookhome/STEM.git
-
 ##Mini Projects
  * invisible-cow
   * Terrance Liang, Matthew Cook
