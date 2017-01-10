@@ -4,7 +4,7 @@ Terrance Liang
 ## Fall Semester
 Period 6
 
-##Final Project
+##Final Projects
 
 ### dllb
 #### Team members: Terrance Liang, Sadman Fahmid, Eric Liao, Matthew Cook 
@@ -12,6 +12,11 @@ Period 6
 * Group Management page that allows a group to be able to contact and work together.
  
 #### https://github.com/mcookhome/dllb.git
+
+### peep
+#### Team members: Terrance Liang, Ling Dong, Cindy Wu, Tyler (Tianshi) Wang
+#### Description
+* Group Event Planner
 
 ## Main Projects
 
@@ -37,19 +42,3 @@ Period 6
 
 #### https://github.com/mcookhome/tubby-cook.git
 
-##Small Class Assignments
- * invisible-cow
-  * Terrance Liang, Matthew Cook
-  * 6/invisible-cow/matthew_terrance
- * todo
-  * Terrance Liang
-  * 6/todo/terrance_liang
- * login
-  * Terrance Liang, Sadman Fahmid
-  * 6/login/sadman_terrance
- * regexp
-  * Terrance Liang, Oliver Zhang 
-  * 6/regexp/oliver-terrance
- * intro-proj 1
-  * Terrance Liang, Eric Liao
-  * 6/intro-proj1/ELiaoTLiang
