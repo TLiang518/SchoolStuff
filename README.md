@@ -1,9 +1,6 @@
 Terrance Liang
 ==========
 
-## Fall Semester
-Period 6
-
 ##Final Projects
 
 ### dllb
