@@ -16,7 +16,9 @@ Period 6
 ### peep
 #### Team members: Terrance Liang, Ling Dong, Cindy Wu, Tyler (Tianshi) Wang
 #### Description
-* Group Event Planner
+* Social event planner for groups of people (can be strangers)
+
+#### https://github.com/CinWu/peep.git
 
 ## Main Projects
 
